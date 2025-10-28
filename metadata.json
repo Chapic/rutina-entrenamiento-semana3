@@ -1,0 +1,5 @@
+{
+  "name": "Progressive Workout Planner",
+  "description": "A web application to display and track a weekly workout and nutrition plan. Users can log their sets, reps, and weight for each exercise to monitor their progress over time. The data is saved locally in the browser.",
+  "requestFramePermissions": []
+}
